@@ -1,0 +1,63 @@
+
+
+flipkart
+bansal
+adarsh
+feature
+14/07/2021
+Enter Tasks additional attribute in sequence [Feature summary, Impact]
+Eshopping site
+High
+[Task{title='flipkart', creator='bansal', assignee='adarsh', status=Open, type=Type{typeName='Feature', attributes=[Eshopping site, High]}, dueDate=14/07/2021, attributes=null}]
+
+
+change font
+team
+aadesh
+Feature
+10/07/2021
+Enter Tasks additional attribute in sequence [Feature summary, Impact]
+changing the font
+low
+[Task{title='flipkart', creator='bansal', assignee='adarsh', status=Open, type=Type{typeName='Feature', attributes=[Eshopping site, High]}, dueDate=14/07/2021, attributes=null}, Task{title='change font', creator='team', assignee='aadesh', status=Open, type=Type{typeName='Feature', attributes=[changing the font, low]}, dueDate=10/07/2021, attributes=null}]
+
+4
+Enter Assignee Name
+aadesh
+Task{title='change font', creator='team', assignee='aadesh', status=Open, type=Type{typeName='Feature', attributes=[changing the font, low]}, dueDate=10/07/2021, attributes=null}
+
+3
+Enter Task Title whose Assignee needs to be changed
+change font
+Enter New Assignee name
+ravi
+Press 1 to Create a task of any type
+Press 2 to Change the status of the task
+Press 3 to Change assignee of the task
+Press 4 to Display tasks assigned to a particular user
+Press 5 to Create a Sprint
+Press 6 to Delete a Sprint
+Press 7 to Display sprint snapshot
+Press 8 to Exit Application
+4
+Enter Assignee Name
+ravi
+Task{title='change font', creator='team', assignee='ravi', status=Open, type=Type{typeName='Feature', attributes=[changing the font, low]}, dueDate=10/07/2021, attributes=null}
+
+
+fix sql issue
+unknown
+adarsh
+bug
+11/07/2021
+Enter Tasks additional attribute in sequence [Severity]
+P1
+[Task{title='flipkart', creator='bansal', assignee='adarsh', status=Open, type=Type{typeName='Feature', attributes=[Eshopping site, High]}, dueDate=14/07/2021, attributes=null}, Task{title='change font', creator='team', assignee='ravi', status=Open, type=Type{typeName='Feature', attributes=[changing the font, low]}, dueDate=10/07/2021, attributes=null}, Task{title='fix sql issue', creator='unknown', assignee='adarsh', status=Open, type=Type{typeName='Bug', attributes=[P1]}, dueDate=11/07/2021, attributes=null}]
+
+
+
+[Task{title='create dashboard', creator='bansal', assignee='adarsh', status=Open, type=Type{typeName='feature', attributes=[create dashboard site, low]}, dueDate=14/07/2021}, Task{title='fix swl issue', creator='bansal', assignee='team', status=Open, type=Type{typeName='bug', attributes=[P1]}, dueDate=14/07/2021}, Task{title='create a microservice', creator='amy', assignee='adarsh', status=Open, type=Type{typeName='story', attributes=[add logging to feature]}, dueDate=14/07/2021}, Task{title='console api', creator='ryan', assignee='ryan', status=Open, type=Type{typeName='feature', attributes=[create api for console, High]}, dueDate=14/07/2021}, Task{title='to check', creator='me', assignee='ada', status=Open, type=Type{typeName='bug', attributes=[P1]}, dueDate=30/12/2021}]
+
+
+
+[Task{title='create dashboard', creator='bansal', assignee='adarsh', status=Open, type=Type{typeName='feature', attributes=[create dashboard site, low]}, dueDate=14/07/2021}, Task{title='fix swl issue', creator='bansal', assignee='team', status=Open, type=Type{typeName='bug', attributes=[P1]}, dueDate=14/07/2021}, Task{title='create a microservice', creator='amy', assignee='adarsh', status=Open, type=Type{typeName='story', attributes=[add logging to feature]}, dueDate=14/07/2021}, Task{title='console api', creator='ryan', assignee='ryan', status=Open, type=Type{typeName='feature', attributes=[create api for console, High]}, dueDate=14/07/2021}, Task{title='fix sql issue', creator='unknown', assignee='adarsh', status=Open, type=Type{typeName='bug', attributes=[P3]}, dueDate=11/07/2021}]
