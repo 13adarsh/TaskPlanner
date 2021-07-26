@@ -32,7 +32,7 @@ It should be easy to add a new task type to your application
 A sprint is defined as a collection of tasks used to track progress. You can add or remove a task from sprints.
 A task can be part of only one sprint at a time.
 
-##### Your task planner should have the following functionalities:
+##### Task planner have the following functionalities:
     1. Task
         a. Create a task of any type
         b. Change the status of the task
