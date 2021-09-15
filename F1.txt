@@ -1,1 +1,2 @@
 Creating a new file F1 for testing purpose.
+changed file type to txt
